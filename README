@@ -13,33 +13,15 @@ It allows you to control your computer with voice commands and an intent → act
 - Chatting with good memory
 
 
-## 🎥 Tutorial
-This project is part of a **video tutorial series**.  
-Please watch the tutorial to understand the architecture and how to safely extend the system.
-video: https://youtu.be/w_AGre6-9TM?si=gE5xc4_aKhy4DwnA
+
 
 ## 🔐 Security Notice
 - Runs **100% locally**
 - No remote access by default
 - Jarvis only executes what **YOU code**
 
-⚠️ Do NOT paste unknown code or give full system control to untrusted scripts.
 
----
 
-## ⚠️ Usage Warning
-- **No commercial use**
-- Do NOT sell, market, or monetize
-- Do NOT present this project as your own on social media
 
-You may use and modify it for **personal and educational purposes**.
 
----
 
-## 📲 Follow & Contact
-Instagram: https://www.instagram.com/fatihmakes/  
-TikTok: https://www.tiktok.com/@fatihmakes  
-
-If you have issues or suggestions, feel free to reach out.
-
-⭐ Like, follow, and subscribe for future Jarvis upgrades!
